@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="LIONE%20IR.png" alt="LIONE IR Logo" width="250">
+</p>
+
 # 🦁 LIONE IR — Simulador de Imposto de Renda
 
 Ferramenta desenvolvida no Microsoft Excel para organizar e centralizar informações importantes para a preparação da declaração do Imposto de Renda.
